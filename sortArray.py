@@ -4,7 +4,9 @@ def main():
     
     #built in sorting algorithm
     """offers the ability to sort data out of the box using sorted() For example: sorted(array) can sort any list as long as the values are comparable"""
-    #print(sorted(nums))
+    print(sorted(nums)
+    
+
 
 if __name__ == "__main__":
     main()
